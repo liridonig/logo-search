@@ -1,1 +1,1 @@
-# logo-search
+# loko-search
