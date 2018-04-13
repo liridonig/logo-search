@@ -1,0 +1,526 @@
+body {
+    overflow: visible;
+    overflow-x: hidden;
+
+}
+
+.navbar-nav > li > a {
+    color: black;
+}
+
+.navbar-nav > li > a:hover {
+
+    border-width: 1px;
+    border-color: rgb(44, 45, 45);
+    border-style: solid;
+    border-radius: 10px;
+    color: #fab34e;
+    background-color: #fff;
+
+}
+.navbar-nav > li > a:active {
+
+    border-width: 1px;
+    border-color: rgb(44, 45, 45);
+    border-style: solid;
+    border-radius: 10px;
+    color: #fab34e;
+     background-color: #fff;
+    
+
+}
+
+
+.language {
+    display: inline-flex;
+    float: right;
+}
+
+.languageheading {
+    color: black;
+}
+
+
+.navlink {
+    margin-top: -31px;
+}
+
+.navbar-brand {
+    margin-top: -23px;
+}
+
+.img-logo {
+    margin-left: 52px;
+    margin-top: -18px;
+    width: 194px;
+    height: 73px;
+
+}
+
+.HomeSection1 {
+    background-image: url('images/home-header-wl.png');
+    min-height: 565px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: auto;
+    /*    background-position: center;*/
+}
+
+/*
+.header-logo{
+    text-align: center;
+    width: 10%;
+    display: block;
+    margin: auto;
+   margin-top: 39%;
+   margin-right: 50%;
+    margin-left: 50%;
+    margin-top: 40%;
+    
+}
+*/
+
+/*Socoal link part*/
+
+.slink {
+    display: inline-flex;
+    background-color: #565757;
+    position: relative;
+    top: 479px;
+    left: 110px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.socilalinkparagraf {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    border: 2px solid #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    /*    margin-top: 8px;*/
+}
+
+.fbb {
+
+    padding-top: px;
+    color: #fff;
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 5px #fff;
+    padding: 0.4em 0.6em;
+
+
+}
+
+.inn {
+    padding-top: 4px;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 5px #fff;
+    padding: 0.4em 0.6em;
+}
+
+
+
+/*End of Socoal link part*/
+
+/*SECTION2*/
+
+.homeVerticalLine {
+    border-left: 2px solid #dedede;
+    padding-left: 15px;
+    padding-bottom: 20px;
+}
+
+
+
+
+border-top: 2px solid red;
+/* margin-bottom: 3px; */
+
+padding-top: 35px;
+
+
+
+
+.homeTitleBtnLeft {
+    font-size: 24px;
+    font-family: "Rajdhani";
+    color: rgb(86, 87, 87);
+    font-weight: bold;
+    line-height: 1.2;
+    /*    text-align: right;*/
+}
+
+.homeBtn {
+    border-radius: 20px;
+    color: #a38365;
+    font-weight: 600;
+    font-family: "Rajdhani";
+    line-height: 1.2;
+    padding: 5px 10px 5px 1 0px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.HomeLokoSpan {
+    color: #b2977f;
+}
+
+.Homepharagraf {
+    font-size: 20px;
+    font-family: "Myriad Pro";
+    color: rgb(44, 45, 45);
+    line-height: 1.2;
+    text-align: justifyLeft;
+}
+
+.Homepharagraf2 {
+    font-size: 20px;
+    font-family: "Myriad Pro";
+    color: #b2977f;
+    line-height: 1.2;
+    text-align: justifyLeft;
+}
+
+.HomeL {
+    border-top: 2px solid #dedede;
+    margin-bottom: 150px;
+}
+
+.hh1 {
+    border-top: 2px solid #dedede;
+    /* margin-bottom: 3px; */
+    padding-top: 35px;
+
+    display: inline-flex;
+    margin-top: 3px;
+}
+
+.hh {
+
+    display: inline-flex;
+    margin-top: 3px;
+}
+
+.homeNoVisit {
+    font-size: 20px;
+}
+
+.homeNoVisitF {
+    font-weight: 700
+}
+
+.HomeTitle2 {
+    color: #987453;
+    margin-top: 85px;
+}
+
+/*end of SECTION2*/
+
+/*HOME SECTION3*/
+
+.Homesection3 {
+    padding-top: 12px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7 !important;
+}
+
+/*end of Home SECTION3*/
+
+/*______________________________*/
+
+/*SECTION4*/
+
+.homesection4 {
+   margin-bottom: 113px;
+}
+
+.hVistLayer {
+    background-color: aquamarine;
+    /*    margin-right: -34px;*/
+    height: 100px;
+    width: 100%;
+}
+
+.hVistLayer1 {
+    background-color: red;
+    float: left;
+    height: 100px;
+}
+
+
+
+
+.homePanel-title {
+    font-size: 56px;
+    padding-right: 0px;
+    line-height: 0.7;
+    text-align: center;
+    color: #fff;
+    font-family: "Rajdhani";
+}
+
+.homePanel-text {
+    font-size: 30px;
+    line-height: 0.2;
+    text-align: center;
+    color: #fff;
+    font-family: "Rajdhani";
+}
+
+.homePanel-title1 {
+    font-size: 30px;
+    padding-right: 0px;
+    line-height: 1.2;
+    text-align: center;
+    color: #fff;
+    margin-bottom: -15px;
+    font-family: "Rajdhani";
+}
+
+
+
+.homePanel-text1 {
+    font-size: 25px;
+    line-height: 0.7;
+    text-align: center;
+    color: #fff;
+    font-family: "Rajdhani";
+}
+
+
+.panel.panel-horizontal {
+    display: table;
+    width: 100%;
+}
+
+.panel.panel-horizontal > .homePanel-heading,
+.panel.panel-horizontal > .panel-body,
+.panel.panel-horizontal > .panel-footer {
+    display: table-cell;
+}
+
+.panel.panel-horizontal > .homePanel-heading,
+.panel.panel-horizontal > .panel-footer {
+    width: 25%;
+    border: 0;
+    vertical-align: middle;
+}
+
+.panel.panel-horizontal > .homePanel-heading {
+    /*    border-right: 1px solid #ddd;*/
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 4px;
+    background-color: #4b4a4a;
+}
+
+.panel.panel-horizontal > .panel-footer {
+    /*    border-left: 1px solid #ddd;*/
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 4px;
+    background-color: #987352;
+}
+
+/*end of SECTION 4*/
+
+/*SECTION5*/
+
+.homeSection5 {
+    margin-bottom: 50px;
+}
+
+.HomeDiscover {
+    font-size: 31px;
+    font-family: "Rajdhani";
+    margin-left: 121px;
+    padding-bottom: 80px;
+}
+
+.HomeDiscoverL {
+    color: #ffbb66;
+}
+
+.HomeDiscoverLogoPTitle {
+    font-size: 25px;
+    font-family: "Rajdhani";
+    color: rgb(13, 14, 7);
+    line-height: 1.2;
+    text-align: justifyLeft;
+}
+
+.HomeDiscoverLogoPTextAuto {
+    color: #f99d1b;
+}
+.HomeDiscoverLogoPCar{
+    color: red;
+}
+
+.Homeddd {
+    margin-right: 19px;
+    /*    padding-right: 5px;*/
+}
+.HomeDiscoverLogoPTravel{
+    color: #3e9fd8;
+}
+.HomeDiscoverLogoPJobs{
+    color: #62c08e;
+}
+.HomeDiscoverLogoPHome{
+    color: #987352;
+}
+
+/*END OF section5*/
+
+.HomeLetsGoImg {
+    margin-left: 108px;
+    padding-top: 70px;
+}
+
+.homeSection5 {
+    margin-bottom: 50px;
+}
+
+
+
+/*FOOTER*/
+
+.footerLastParagraf {
+    background-color: #fff;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #ededed;
+}
+
+#footer3 {
+    background-color: #ededed;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.footer-col {
+    margin-left: 37px;
+    margin-bottom: 15px;
+    margin-top: 22px;
+}
+
+.footer-col {
+    font-size: 25px;
+    font-family: "Rajdhani";
+    color: rgb(13, 14, 7);
+    line-height: 1.2;
+    text-align: justifyLeft;
+}
+
+.footer-colL {
+    margin-top: 20px;
+    margin-left: 37px;
+    font-size: 25px;
+    font-family: "Rajdhani";
+
+    color: #f99d1b;
+}
+
+.ullist {
+    font-size: 20px;
+    font-family: "Rajdhani";
+    color: rgb(13, 14, 7);
+    line-height: 1.2;
+    text-align: justifyLeft;
+}
+.Footerfbb {
+    color: #fff;
+    font-size: 23px;
+    display: inline-block;
+    /* border-radius: 60px; */
+    box-shadow: 0px 0px 5px #fff;
+     padding: 5px 9px 5px 9px;
+    background: #f99d1b;
+    float: right;
+    margin-top: -39px;
+    margin-right: 2px;
+}
+.Footerfbb1 {
+/*    padding-top: px;*/
+    color: #fff;
+    font-size: 23px;
+    display: inline-block;
+    /* border-radius: 60px; */
+    box-shadow: 0px 0px 5px #fff;
+    padding: 5px 5px 5px 9px;
+    background: #f99d1b;
+    float: right;
+}
+/*end of FOOTER*/
+
+.Footerlist {
+    color: #f99d1b;
+}
+
+
+
+@media only screen and (max-width: 1024) {
+    .HomeDiscoverLogoPImg {
+        width: 100% !important;
+    }
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    .navlink {
+        margin-top: 0px !important;
+    }
+    .img-logo {
+        width: 80%;
+        margin-left: 0px !important;
+
+    }
+
+    #nav-toggle-button {
+        background-color: #f99d1b;
+    }
+    .icon-bar {
+        background-color: black;
+    }
+    .socialLinks {
+        display: none;
+    }
+    .HomeSection1 {
+        background-image: url(images/mobile-background.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
+    .HomeTitle {
+        text-align: center;
+    }
+    .homeNoVisit {
+        font-size: 13px;
+    }
+    .Homepharagraf {
+        font-size: 17px;
+    }
+    .Homepharagraf2 {
+        font-size: 17px;
+    }
+    .HomeDiscover {
+        margin-left: 30px;
+    }

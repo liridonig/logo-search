@@ -1,0 +1,883 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+body {
+    overflow-x: hidden;
+}
+
+
+.section-1 .col-md-2 {
+    padding: 5px;
+}
+
+.section-1 img {
+    display: block;
+    margin: auto;
+}
+
+.navbar-nav > li > a {
+    color: black;
+}
+
+.navbar-nav > li > a:focus {
+
+    color: #fab34e;
+    /*    background-color: transparent;*/
+}
+
+.navbar-nav > li > a:hover {
+
+    color: #fab34e;
+    background-color: transparent;
+
+}
+
+.navbar-nav > li > a {
+    font-size: 18px;
+    font-family: "Rajdhani";
+    color: rgb(254, 254, 254);
+    font-weight: bold;
+    line-height: 1.2;
+
+}
+
+.logo {
+    padding-top: 10px !important;
+    padding-bottom: 10px;
+}
+
+.navbar-nav > li > a:active {
+
+    color: #fab34e;
+}
+
+.language {
+    margin: 11px;
+    text-align: right;
+}
+
+.Autoy2Vehicles {
+    font-size: 24px;
+    font-family: "Rajdhani";
+    color: rgb(44, 45, 45);
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+
+.Autoy2NoOfVehicles {
+    color: #f99d1b;
+}
+
+.languageheading {
+    color: black;
+    margin: 5px;
+}
+
+.languageheading:hover,
+active {
+    position: relative;
+    color: #f99d1b;
+    border: 2px solid #f99d1b;
+    border-radius: 10px;
+    padding: 0px 3px;
+    margin: 10px 0px;
+    text-decoration-line: none !important;
+}
+
+.glyphicon-user {
+    margin-right: 10px;
+}
+
+.Autoy2lenguage {
+    margin-right: 15px;
+    margin-top: 20px;
+    text-align: right;
+}
+
+.Autoy2lenguageP {
+    font-size: 18px;
+    font-family: "Rajdhani";
+    color: rgb(44, 45, 45);
+    font-weight: bold;
+}
+
+.Autoy2lenguageP:hover {
+    color: #f99d1b;
+    font-weight: bold;
+    text-decoration-line: none;
+}
+
+
+.navlink {
+    /*    margin-top: -31px;*/
+}
+
+.navbar-center1 {
+    background-color: rgb(0, 0, 0);
+    opacity: 0.6;
+    /*    box-shadow: 0.68px 12.982px 81px 0px rgba(3, 3, 3, 0.52);*/
+
+    color: #fff !important;
+    width: 100%;
+    z-index: 999999;
+    }
+
+    .navbar-brand {
+        margin-top: -23px;
+    }
+
+    .eee:hover {
+        text-decoration: none;
+    }
+
+    .img-logo {
+        margin-left: 52px;
+        margin-top: -18px;
+        /*
+    width: 152px;
+    height: 70px;
+*/
+    }
+
+    .navbar-nav {
+        margin-left: 25% !important;
+    }
+
+    .navbar-toggle {
+        background-color: #fab34e;
+    }
+
+    .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+
+    /*search-section1*/
+
+    .used-cars-list {
+        display: inline-block;
+        list-style: none;
+        float: left;
+        margin-bottom: 50px;
+    }
+
+    .used-cars {
+        font-size: 22px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+
+        font-weight: bold;
+    }
+
+    .used-cars-list li:hover {
+        color: #f99d1b;
+    }
+
+    /*search-section2*/
+
+    .search-section2 {
+        background-color: #f8f8f8;
+        margin-bottom: -100px;
+    }
+
+    .part-accessories {
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        font-weight: bold;
+    }
+    .part-accessories:hover {
+        text-decoration: none;
+        color: rgb(44, 45, 45);
+    }
+
+    .parts {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+    }
+
+    .parts-top {
+        margin-top: 30px;
+    }
+
+    .parts-1 {
+        font-size: 13px;
+        margin-top: 30px;
+        font-family: "Rajdhani";
+        margin-left:1px;
+        margin-bottom: 30px;
+    }
+
+    .part-accessories-1 {
+        margin-right: 16px;
+        margin-left: -16px;
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        font-weight: bold;
+    }
+    .part-accessories-1:hover {
+        text-decoration: none;
+        color: rgb(44, 45, 45);
+    }
+
+
+    .glyphicon-menu-right {
+        background-color: #f79101;
+        color: #fff;
+        padding: 3px;
+    }
+
+    .btn-continue {
+        display: block;
+        padding: 4px;
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+    }
+
+    .btn-continue:hover {
+        color: #f79101;
+        text-decoration: none;
+    }
+
+    .parts-top-1 {
+        margin-top: 40px;
+    }
+
+    .advertise {
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        font-weight: bold;
+    }
+
+    .advertise1 {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        
+    }
+
+    .parts-top-2 {
+        margin-top: 60px;
+
+    }
+
+    .border-bottom {
+        border-bottom: 4px solid #ced2db;
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+
+    .button1 {
+        padding: 0 60px;
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        margin-top: 7px;
+    }
+
+
+    .parts-acces {
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: black;
+        font-weight: bold;
+        line-height: 1.2;
+        margin-top: 20px;
+        margin-bottom: 40px;
+
+
+    }
+
+    .looking {
+        border: 1px solid #cccccc;
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+
+        width: 100%;
+        line-height: 1.2;
+        padding: 2px;
+    }
+
+    .looking:hover {
+        color: #f99d1b;
+        border: 1px solid #f99d1b;
+    }
+
+    .buttoni2 {
+        color: #fff;
+        background-color: #f99d1b;
+        width: 100%;
+        font-size: 18px;
+        font-family: "Rajdhani";
+        font-weight: bold;
+        border: none;
+    }
+
+    .select1 {
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+
+        border: 1px solid #cccccc;
+        width: 100%;
+    }
+
+    .tittle {
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: black;
+        font-weight: bold;
+        line-height: 1.2;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+
+    .tittle-2 {
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: black;
+        line-height: 1.2;
+        margin-top: 10px;
+
+    }
+
+
+    .pad {
+        margin-left: 20px;
+    }
+
+    .sorting {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        padding-left: 50px;
+
+
+    }
+
+    .sorting:hover {
+        text-decoration: none;
+    }
+
+    .bydate {
+        font-size: 18px;
+        font-family: "Rajdhani";
+        color: rgb(44, 45, 45);
+        line-height: 1.2;
+        border: 1px solid #f99d1b;
+        padding-right: 100px;
+        margin-left: 20px;
+        padding-left: 20px;
+
+    }
+
+    .bydate:hover {
+        text-decoration: none;
+        color: #f99d1b;
+    }
+
+    .date-sorting {
+        margin-top: 50px;
+    }
+
+    .categories {
+        padding-left: 50px;
+    }
+
+    .select1:hover {
+        color: #f99d1b;
+        border: 1px solid #f99d1b;
+    }
+
+    .rrota {
+        border: 2px solid #cccccc;
+        margin-bottom: 20px;
+    }
+
+    .rrota:hover {
+        border: 2px solid #f99b1b;
+    }
+
+    .text-rrota {
+        border: 2px solid #cccccc;
+        margin-bottom: 10px;
+        font-family: "Rajdhani";
+        font-size: 15px;
+    }
+
+    .text-rrota:hover {
+        border: 2px solid #f99b1b;
+    }
+
+    .butoni3 {
+        float: right;
+        top: 20%;
+        color: #fff;
+        background-color: #cccccc;
+        padding: 1px 50px;
+        border: none;
+        font-family: "Rajdhani";
+    }
+
+    .butoni3:hover {
+        background-color: #f99b1b;
+    }
+
+    .btn-group1 {
+        font-family: "Rajdhani";
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #fbfbfb;
+        color: #929294;
+
+    }
+
+    .btn-group1 button {
+        padding: 2px 8px;
+        margin: 5px;
+
+    }
+
+    .back {
+        padding: 2px 19px !important;
+        margin-right: 0!important;
+        margin-bottom: 3px !important;
+    }
+
+    .back:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 20px !important;
+    }
+    .end {
+        padding: 2px 19px !important;
+        margin-left:-8px !important;
+        margin-bottom: 3px !important;
+        
+    }
+    .end:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 20px !important;
+    }
+    .back-span {
+        border: 1px solid #868688;
+        padding: 6px 6px;
+        background-color: #e6e6e6;
+        margin-right: 10px;
+        margin-left: -1px;
+    }
+    .back-span2 {
+        border: 1px solid #868688;
+            padding: 6px 6px;
+            background-color: #e6e6e6;
+            margin-right: -1px;
+            margin-left: 10px;
+
+    }
+    .back-span:hover {
+        color: #f99b1b;
+        border:1px solid #f99b1b;
+        
+    }
+    .back-span2:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+    }
+    .page-1:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 9px;   
+    }
+    .page-2:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 9px;   
+    }
+    .page-3:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 9px;   
+    }
+    .page-4:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 9px;   
+    }
+
+    /*tires-opens*/
+
+    .text-tires {
+        text-align: center;
+        font-size: 18px;
+        font-family: "Rajdhani";
+        margin-top: -23px;
+        line-height: 1.2;
+        font-weight: bold;
+    }
+
+    .text-tires:hover {
+        color: #f99b1b;
+    }
+
+    .text-tires1 {
+        text-align: center;
+        font-size: 16px;
+        font-family: "Rajdhani";
+        line-height: 1.2;
+        margin-top: 16px;
+    }
+    .back-parts {
+        margin-left: 25px;
+        border: 1px solid #cccccc;
+        padding-left: 20px;
+        font-size: 16px;
+        font-family: "Rajdhani";
+        width: 100%;
+    }
+    .back-parts:hover {
+        border: 1px solid #f99b1b;
+        color: #f99b1b;
+        }
+    .back-next {
+        margin-bottom: 20px;
+        
+        
+    }
+
+    .next-buton {
+        padding: 1px 35px;
+        margin-left: -16px;
+        margin-top:-50px;
+        margin-left: 20px;
+        margin-right: -4px;
+        background-color: #fff;
+        border: 1px solid #cccccc;
+
+    }
+    .back-buton {
+    padding: 1px 35px;
+        margin-left: -16px;
+    background-color: #fff;  
+        background-color: #fff;
+        border: 1px solid #cccccc;
+    }
+    .next-buton:hover{
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 1px 35px;
+    }
+    .back-buton:hover{
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 1px 35px;
+    }
+
+
+    .img-rrota {
+        display: block;
+        margin: auto;
+        border: 1px solid #cccccc;
+        padding: 3px 220px;
+        margin-top: 17;
+        box-shadow: 0px 20px 20px 0px #f9f9f9 inset;
+
+    }
+
+    .maps {
+        display: block;
+        margin: auto;
+        min-height: 300px;
+        max-width: 500px;
+    }
+
+    .text-tires2 {
+        font-size: 16px;
+        font-family: "Rajdhani";
+        line-height: 0.6;
+        text-align: center;
+    }
+
+    .telefon-number {
+        text-align: center;
+        font-size: 16px;
+        font-family: "Rajdhani";
+        line-height: 1.2;
+        color: #f99b1b;
+    }
+
+    .telefon-number {
+        display: block;
+        margin: auto;
+        border: 1px solid #fed59b;
+        background-color: #fff;
+        margin-top: 25px;
+    }
+
+    .telefon-number:hover {
+        border: 1px solid #f99b1b;
+    }
+
+
+
+
+    .dropdown {
+        display: inline-block;
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+        background: #fff;
+        border: 1px solid #cccccc;
+        color:
+    }
+
+    .dropdown:before,
+    .dropdown:after {
+        content: '';
+        position: absolute;
+        z-index: 2;
+        top: 9px;
+        right: 10px;
+        width: 0;
+        height: 0;
+        border: 4px dashed;
+        border-color: #888888 transparent;
+        pointer-events: none;
+    }
+
+    .dropdown:before {
+        border-bottom-style: solid;
+        border-top: none;
+    }
+
+    .dropdown:after {
+        margin-top: 7px;
+        border-top-style: solid;
+        border-bottom: none;
+    }
+
+    .dropdown-select {
+        position: relative;
+        width: 130%;
+        margin: 0;
+        padding: 6px 8px 6px 10px;
+        height: 28px;
+        line-height: 18px;
+        font-size: 19px;
+        font-family: "Rajdhani";
+        color: #62717a;
+        padding-left: 3px;
+        background: #f2f2f2;
+        /* Fallback for IE 8 */
+        background: rgba(0, 0, 0, 0) !important;
+        /* "transparent" doesn't work with Opera */
+        border: 0;
+        border-radius: 0;
+        -webkit-appearance: none;
+
+    }
+
+    .dropdown-select:hover {
+        border: 1px solid #f99b1b;
+        color: #f99b1b;
+    }
+
+    .dropdown-select:focus {
+        z-index: 3;
+        width: 100%;
+        color: #394349;
+        outline: 2px solid #49aff2;
+        outline: 2px solid -webkit-focus-ring-color;
+        outline-offset: -2px;
+    }
+
+    .dropdown-select > option {
+        margin: 3px;
+        padding: 6px 8px;
+        text-shadow: none;
+        background: #f2f2f2;
+        border-radius: 3px;
+        font-family: "Rajdhani";
+        cursor: pointer;
+    }
+
+    .dropdown-select:hover > option {
+        color: #f99b1b;
+    }
+/*footer*/
+
+.footer {
+    padding-top: 70px;
+    margin-top: 100px;
+    background-color: #ededed;
+    padding-bottom: 10px;
+}
+
+.footerLastParagraf {
+    background-color: white;
+    padding: 10px 0px;
+    padding-left: 10%;
+}
+
+.footer-coll {
+    font-size: 24px;
+    font-family: "Rajdhani";
+    color: rgb(249, 147, 3);
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.footer p {
+    font-size: 20px;
+    font-family: "Rajdhani";
+    color: rgb(13, 14, 7);
+    line-height: 0.9
+}
+
+.footer-col {
+    font-weight: bold;
+}
+
+.Footerlist {
+    color: #f99303;
+}
+
+.Footerlist:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: #f99303;
+}
+
+.socila {
+    text-align: right;
+}
+
+.fa-facebook {
+    color: white;
+    background-color: #f99303;
+    padding: 7px 10px;
+}
+
+.fa-instagram {
+    color: white;
+    background-color: #f99303;
+    padding: 7px;
+}
+
+
+
+/*end of autoy2Section1*/
+
+@media (min-width: 768px) {
+    .loginFormeTableq {
+        /* position: absolute; */
+        margin-top: 20px !important;
+        background-color: rgba(209, 208, 208, 0.278);
+        /* opacity: 0.302; */
+        padding: 27px;
+        /* padding-top: 91px; */
+        /* padding-bottom: 126px; */
+    }
+
+}
+
+@media only screen and (max-width: 780px) {
+    
+
+}
+
+@media only screen and (max-width: 991px) {
+    .categories {
+
+        margin-left: -35px;
+    }
+    .buttoni2 {
+        margin-top: 20px;
+    }
+    .sorting {
+        margin-left: -50px;
+    }
+    .pad {
+        margin-left: -15px;
+    }
+    .text-rrota {
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+    .rrota {
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .back {
+        padding: 2px 10px !important;
+        margin-top: 6px !important;
+    }
+    .back:hover {
+        padding: 3px 11px !important;
+    }
+    .end:hover {
+        padding: 3px 16px !important;
+    }
+    .end {
+        padding: 2px 15px !important;
+        margin-top: 6px !important;
+    }
+    .img-rrota {
+        padding: 2px 50px;
+    }
+    .btn-group1 button {
+        padding: 2px 6px;
+        margin: 3px;
+
+    }
+    .page-1:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 7px;
+    }
+    .page-2:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 7px;
+    }
+    .page-3:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 7px;
+    }
+    .page-4:hover {
+        color: #f99b1b;
+        border: 1px solid #f99b1b;
+        padding: 3px 7px;
+    }
+    .back-parts {
+        width: 200px;
+        margin-left: 0;
+    }
+    .part-accessories-1 {
+        margin: 0;
+        
+    }
+    .text-tires {
+        margin-top: 10px;
+    }
+    .back-next {
+        width: 100%;
+    }
+   
+}
